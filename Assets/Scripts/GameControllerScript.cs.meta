@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0212cffafb0fa704db2a3ae09a2d7a1b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RoundText: {instanceID: 0}
+  - ScoreText: {instanceID: 0}
+  - WindowRoundText: {instanceID: 0}
+  - WindowRound: {instanceID: 0}
+  - Duck: {fileID: 3867288127199145041, guid: d262a2f0a9852ef44bad2a4f982baead, type: 3}
+  - DogUp1: {fileID: 4754342354680082046, guid: 8501ed3a30e9ad5469b3f6f5c1c10f0a,
+      type: 3}
+  - DogUp2: {fileID: 1828488563109560257, guid: ebca5ea617a856b47afbe778d7298569,
+      type: 3}
+  - AudioShout: {fileID: 8300000, guid: 365d65f11f2d625458bea0bf4ac5b630, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
